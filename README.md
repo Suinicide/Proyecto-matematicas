@@ -63,14 +63,4 @@ Gráficas de tiempos de cifrado y descifrado.
 
 Archivo resultados_rsa.csv con las métricas obtenidas.
 
-📊 Resultados Esperados
 
-Los nodos con mayor grado (mayor centralidad) son los que más mensajes envían y reciben. RSA es seguro pero computacionalmente costoso para grandes volúmenes de mensajes. Se observa que los tiempos de cifrado y descifrado son significativamente mayores que el envío directo, pero garantizan confidencialidad y autenticidad.
-
-🧠 Conclusiones
-
-En redes reales, los nodos más centrales requieren mayor seguridad porque son los más propensos a ataques o interceptaciones.
-
-El uso de RSA es viable para comunicaciones críticas, aunque no escalable para grandes flujos por su alto costo computacional.
-
-Este ejercicio demuestra cómo combinar análisis de redes y criptografía en un entorno práctico, mostrando la relación entre estructura de red y seguridad de la información.
